@@ -1,2 +1,0 @@
-flipkart
-ecommerce wed site
