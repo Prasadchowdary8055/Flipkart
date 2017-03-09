@@ -79,7 +79,7 @@ public class PackageInfo {
 	}
 
 	public String getVendorName() {
-		return getManifestEntry("Implementation-Vendor");
+		return getManifestEntry("-Vendor");
 	}
 
 	public String getVendorURL() {
