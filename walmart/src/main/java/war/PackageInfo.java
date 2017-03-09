@@ -55,7 +55,7 @@ public class PackageInfo {
 	}
 
 	public String getTitle() {
-		return getManifestEntry("Specification-Title");
+		return getManifestEntry("Title");
 	}
 
 	public String getName() {
