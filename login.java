@@ -1,3 +1,6 @@
+a=0
+2=k
+a=p
 public class login
 
 {
