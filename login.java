@@ -1,4 +1,4 @@
-o=p
+
 2=k
 u=p
 public class login
