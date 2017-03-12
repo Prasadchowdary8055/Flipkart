@@ -1,11 +1,7 @@
-o=p
-2=k
-u=p
 public class login
-
 {
-	public static void main(String atgs[])
-	{	
+	public static void main(String args[])
+	{
 		System.out.println("hello");
 	}
 }
