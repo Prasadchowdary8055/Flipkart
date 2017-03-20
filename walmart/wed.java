@@ -1,1 +1,1 @@
-poiuytrew
+public static void main
