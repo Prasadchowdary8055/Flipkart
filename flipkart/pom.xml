@@ -1,17 +1,9 @@
-
+i098765rfv ,kjhhsafhsdfghg
 <project 
 
 
 
-       <groupId>flipkart</groupId>
-	<artifactId>flipkart</artifactId>
-	<version>0.0.1-SNAPSHOT</version>
-	
-	<packaging>war</packaging>
-	<name>${pkg.title}</name>
-	<description>${pkg.description}</description>
 
-	<parent>
 		<groupId>tr.com.obss.sdlc.pom</groupId>
 		<artifactId>root-pom-java</artifactId>
 		<version>3.1.0</version>
